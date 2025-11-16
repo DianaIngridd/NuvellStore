@@ -9,14 +9,22 @@
 **Carolina Ambrosia** (https://github.com/CarolinaAmbrosia):
 Desenvolvimento Back-End.
 
+<a href="https://github.com/CarolinaAmbrosia"><img src="https://github.com/CarolinaAmbrosia.png" width="50"/></a>
+
 **Diana Ingrid** (https://github.com/DianaIngridd):
 Desenvolvimento Back-End, criação da API, integração com o banco de dados.
+
+<a href="https://github.com/DianaIngridd"><img src="https://github.com/DianaIngridd.png" width="50"/></a>
 
 **Gustavo Lacerda** (https://github.com/gustavolaceerda):
 Arquitetura do projeto e Front-End.
 
+<a href="https://github.com/gustavolaceerda"><img src="https://github.com/gustavolaceerda.png" width="50"/></a>
+
 **João Santos** (https://github.com/joaovsolis):
 Desenvolvimento do Front-End e testes.
+
+<a href="https://github.com/joaovsolis"><img src="https://github.com/joaovsolis.png" width="50"/></a>
 
 ---
 
