@@ -76,7 +76,17 @@ cd NuvellStore
     <a href="https://github.com/joaovsolis">🔗 GitHub</a>
   </div>
 
-</div>
+ ---
+
+  <!-- Nicolas -->
+  <div style="width: 250px; padding: 15px; border-radius: 12px; border: 1px solid #ddd; background: #fafafa; text-align: center;">
+    <img src="https://github.com/NicolasHh7.png" width="100" style="border-radius: 50%;"/>
+    <h3 style="margin-bottom: 5px;">Nicolas Henrique</h3>
+    <p><strong>Front-End • Documentação técnica</strong></p>
+    <a href="https://github.com/NicolasHh7">🔗 GitHub</a>
+  </div>
+  
+---
 
 
 
