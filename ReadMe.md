@@ -6,25 +6,41 @@
 
 ##  Colaboradores:
 
-**Carolina Ambrosia** (https://github.com/CarolinaAmbrosia):
-Desenvolvimento Back-End.
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<a href="https://github.com/CarolinaAmbrosia"><img src="https://github.com/CarolinaAmbrosia.png" width="50"/></a>
+  <!-- Carolina -->
+  <br><div style="width: 250px; padding: 15px; border-radius: 12px; border: 1px solid #ddd; background: #fafafa; text-align: center;">
+    <img src="https://github.com/CarolinaAmbrosia.png" width="100" style="border-radius: 50%;"/>
+    <h3 style="margin-bottom: 5px;">Carolina Ambrosia</h3>
+    <p><strong>Desenvolvimento Back-End</strong></p>
+    <a href="https://github.com/CarolinaAmbrosia">🔗 GitHub</a>
+  </div></br>
 
-**Diana Ingrid** (https://github.com/DianaIngridd):
-Desenvolvimento Back-End, criação da API, integração com o banco de dados.
+  <!-- Diana -->
+  <br><div style="width: 250px; padding: 15px; border-radius: 12px; border: 1px solid #ddd; background: #fafafa; text-align: center;">
+    <img src="https://github.com/DianaIngridd.png" width="100" style="border-radius: 50%;"/>
+    <h3 style="margin-bottom: 5px;">Diana Ingrid</h3>
+    <p><strong>Back-End • Criação da API • Integração com o Banco de Dados</strong></p>
+    <a href="https://github.com/DianaIngridd">🔗 GitHub</a>
+  </div></br>
 
-<a href="https://github.com/DianaIngridd"><img src="https://github.com/DianaIngridd.png" width="50"/></a>
+  <!-- Gustavo -->
+  <br><div style="width: 250px; padding: 15px; border-radius: 12px; border: 1px solid #ddd; background: #fafafa; text-align: center;">
+    <img src="https://github.com/gustavolaceerda.png" width="100" style="border-radius: 50%;"/>
+    <h3 style="margin-bottom: 5px;">Gustavo Lacerda</h3>
+    <p><strong>Arquitetura do projeto • Front-End</strong></p>
+    <a href="https://github.com/gustavolaceerda">🔗 GitHub</a>
+  </div></br>
 
-**Gustavo Lacerda** (https://github.com/gustavolaceerda):
-Arquitetura do projeto e Front-End.
+  <!-- João -->
+  <br><div style="width: 250px; padding: 15px; border-radius: 12px; border: 1px solid #ddd; background: #fafafa; text-align: center;">
+    <img src="https://github.com/joaovsolis.png" width="100" style="border-radius: 50%;"/>
+    <h3 style="margin-bottom: 5px;">João Santos</h3>
+    <p><strong>Front-End • Testes</strong></p>
+    <a href="https://github.com/joaovsolis">🔗 GitHub</a>
+  </div></br>
 
-<a href="https://github.com/gustavolaceerda"><img src="https://github.com/gustavolaceerda.png" width="50"/></a>
-
-**João Santos** (https://github.com/joaovsolis):
-Desenvolvimento do Front-End e testes.
-
-<a href="https://github.com/joaovsolis"><img src="https://github.com/joaovsolis.png" width="50"/></a>
+</div>
 
 ---
 
