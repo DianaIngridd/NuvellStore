@@ -4,11 +4,27 @@
 
 ---
 
+##  Colaboradores:
+
+**Carolina Ambrosia** (https://github.com/CarolinaAmbrosia):
+Desenvolvimento Back-End.
+
+**Diana Ingrid** (https://github.com/DianaIngridd):
+Desenvolvimento Back-End, criação da API, integração com o banco de dados.
+
+**Gustavo Lacerda** (https://github.com/gustavolaceerda):
+Arquitetura do projeto e Front-End.
+
+**João Santos** (https://github.com/joaovsolis):
+Desenvolvimento do Front-End e testes.
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 - **Back-end:** [.NET Core Minimal API](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis)
 - **Banco de Dados:** SQL Server
-- **Front-end:** HTML5, CSS3, JavaScript puro (Vanilla JS)
+- **Front-end:** HTML5, CSS3, JavaScript puro
 
 ---
 
@@ -28,5 +44,5 @@
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/dianaingrid099/NuvellStore.git
+git clone https://github.com/DianaIngridd/NuvellStore.git
 cd NuvellStore
